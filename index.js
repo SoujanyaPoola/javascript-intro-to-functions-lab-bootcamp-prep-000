@@ -17,7 +17,11 @@ function whisper(string){
   if(string.toUpperCase() === string){
   return "YES INDEED!"
   }
+<<<<<<< HEAD
   if(string  === "I love you, Grandma."){
+=======
+  if(String  === "I love you, Grandma."){
+>>>>>>> 193d8f9574bc4c3adfc287576ffd756d04ab18f8
     return "I love you, too."
   }
   }
